@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there! 🛸
+
+My name is Sebastian and I'm a student from the University of Milano-Bicocca (Italy), who's currently studying plasma physics. This GitHub account was created in order to contain all the scripts and simulations that I develop through my studies. 
+
+Currently interested in Computational Fluid Dynamics (CFD) and Computational Plasma Science (CPS).
 
 <!--
 **Grafton17/Grafton17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
