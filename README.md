@@ -13,6 +13,11 @@ This GitHub account was created in order to contain all the scripts and simulati
 # Current focus
 Visualization of the numerical and analytical solutions of MHD equations in plasma physics. For this reason I decided to start with a little bit of self-study of classical fluid mechanics and of CFD. The idea is to get a grasp of the plasma behaviour, which is un-intuitive, because I do not interact with plasmas in my every day life...
 
+# Available repositories
+Currently, there are only two repositories available:
+- [CFD](Grafton17/CFD) on Computational (neutral) Fluid Dynamics 🌊
+- [Signal Processing](Grafton17/Signal_processing): useful procedures and algorithms for the analysis of data from cold ❄️ (turbulence, coherent structures, linear waves, bi-linear waves) and hot 🔥 (LaBr3:Ce scintillator detectors) plasmas 
+
 <!--
 **Grafton17/Grafton17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
