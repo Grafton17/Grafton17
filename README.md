@@ -15,7 +15,7 @@ Visualization of the numerical and analytical solutions of MHD equations in plas
 
 # Available repositories
 Currently, there are only two repositories available:
-- [CFD](Grafton17/CFD) on Computational (neutral) Fluid Dynamics 🌊
+- [CFD](CFD) on Computational (neutral) Fluid Dynamics 🌊
 - [Signal Processing](Grafton17/Signal_processing): useful procedures and algorithms for the analysis of data from cold ❄️ (turbulence, coherent structures, linear waves, bi-linear waves) and hot 🔥 (LaBr3:Ce scintillator detectors) plasmas 
 
 <!--
