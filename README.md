@@ -16,7 +16,7 @@ Visualization of the numerical and analytical solutions of MHD equations in plas
 # Available repositories
 Currently, there are only two repositories available:
 - [CFD](https://github.com/Grafton17/CFD) on Computational (neutral) Fluid Dynamics 🌊
-- [Lab_Courses](https://github.com/Grafton17/Lab_Courses): useful procedures and algorithms for the analysis of data from cold ❄️ (turbulence, coherent structures, linear waves, bi-linear waves) and hot 🔥 (relevant radiation detectors: semi-conductors, GEMs, PMTs, scintillators, diamonds) plasmas.
+- [Lab_Courses](https://github.com/Grafton17/Lab_Courses): useful procedures and algorithms developed during the attended laboratory courses, namely: Plasma Physics I and II, Astrostatistics and Computational Materials Science.
 
 <!--
 **Grafton17/Grafton17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
